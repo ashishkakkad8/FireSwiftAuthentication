@@ -1,0 +1,6 @@
+framework module Pods_FireSwiftAuthentication {
+  umbrella header "Pods-FireSwiftAuthentication-umbrella.h"
+
+  export *
+  module * { export * }
+}
